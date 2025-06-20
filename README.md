@@ -23,10 +23,6 @@
 - [⚙️ Tech Stack](#️-tech-stack)
 - [📂 Structure](#-structure)
 - [🚀 Getting Started](#-getting-started)
-- [🎨 Customization](#-customization)
-- [🤝 Contribute](#-contribute)
-- [📄 License](#-license)
-
 ---
 
 ## ✨ Highlights
@@ -47,8 +43,7 @@
 ---
 
 ## 🎥 Demo
-View it live: **https://Ficel30.github.io/Arch-port/**  
-*(Update once deployed)*
+View it live: **[https://Ficel30.github.io/Arch-port/](https://arch-port.netlify.app/)**  
 
 ---
 
