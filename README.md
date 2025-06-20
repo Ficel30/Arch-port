@@ -43,7 +43,7 @@
 ---
 
 ## 🎥 Demo
-View it live: **[https://Ficel30.github.io/Arch-port/](https://arch-port.netlify.app/)**  
+View it live: **[https://arch-port.netlify.app/](https://arch-port.netlify.app/)**  
 
 ---
 
